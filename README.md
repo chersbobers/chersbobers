@@ -1,8 +1,8 @@
 ## Hi there I'm chersbobers! 👋
 
- <p>🔭 I’m currently working on My fishing game cool cats fishing and the gamedev.js game jam.
- 🌱 I'm learning Javascript and C-sharp
- 🎊 Awards: Grow waitiaha digi awards 23 2nd overall and 1st for the year 6 bracket(yes I am a child)</p>
+ <h2>🔭 I’m currently working on My fishing game cool cats fishing and the gamedev.js game jam.</h2>
+ <h2>🌱 I'm learning Javascript and C-sharp</h2>
+ <h2>🎊 Awards: Grow waitiaha digi awards 23 2nd overall and 1st for the year 6 bracket(yes I am a child)</h2>
 
 <!--
 **chersbobers/chersbobers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
