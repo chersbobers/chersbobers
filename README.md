@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨‍💻 I am working on Cool cats fishing and the Game dev.js gamejam<br>🌱 I am learning Javascript and c#<br>🏫 I am in school still year 8 (12) <br>
+ 👨‍💻 I am working on Cool cats fishing<br>🌱 I am learning Javascript and c#<br>🏫 I am in school still year 8 (12) <br>
 
 
 ## 🌐 Socials:
