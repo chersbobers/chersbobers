@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=chersbobers&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ### 🤹 Vistor count
-[![](https://visitcount.itsvg.in/api?id=chersbobers&icon=4&color=9)](https://visitcount.itsvg.in)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=chers&countColor=%23263759&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
