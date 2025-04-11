@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My fishing game cool cats fishing and the gamedev.js game jam.<br>🌱 I'm learning Javascript and C-sharp<br>
+🔭 I’m currently working on My fishing game cool cats fishing and the gamedev.js game jam.<br>🌱 I'm learning Javascript and C#<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@chersbobers) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@chersbobers) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaklateam@hotmail.com) 
