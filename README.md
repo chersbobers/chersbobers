@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I make websites, linux apps and video game. All for fun because Im 12 I started when was 4 with scratch then html now im here!</h4>
+<h4 align="left">A alright dev. I like go</h4>
 
 ###
 
