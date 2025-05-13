@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Chersbobers from New zealand (all the way under the world)<br>- 📚 I'm currently learning more go and js<br>- ⚡ In my free time I work on my linux package manger crobrew<br>- 📖 All my stuff is open source</p> <p>-If you need to contact me do it though gitter at @chersbobers:gitter.im </p>
+<p align="left">I'm Chersbobers from New zealand (all the way under the world)<br>- 📚 I'm currently learning more go and js<br>- ⚡ In my free time I work on my linux package manger crobrew<br>- 📖 All my stuff is open source</p> <br> <p>-If you need to contact me do it though gitter at @chersbobers:gitter.im </p>
 
 ###
 
